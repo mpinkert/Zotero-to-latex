@@ -12,6 +12,7 @@ This lets you reference any new citations easily.
 There are two steps to using this style:
 
 1.) Run the notebook on your Zotero library
+
 2.) Import the style and select it for your document
 
 The style requires that the short-title keyword in a citation holds the first meaningful word of the title.  E.g., the first meaningful
