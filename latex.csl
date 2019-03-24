@@ -54,10 +54,8 @@
       <text macro="first-title-word"/>
       <text macro="issued-year"/>
     </group>
-     	<names>
 	<text macro="author-blank"/>
-	</names>
-     <text macro="author" prefix=", author={" suffix="}"/>
+    <text macro="author" prefix=", author={" suffix="}"/>
   </macro>
   <macro name="author-blank">
     <names variable="author">
